@@ -1,0 +1,51 @@
+query_id,query,context
+q_1,a^2 + b^2 = c^2,Pythagorean theorem in geometry
+q_2,x^2 + y^2 = r^2,Circle equation in spherical coordinates
+q_3,(x - x_0)^2 + (y - y_0)^2 = r^2,"Circle with center (x_0, y_0) in optimization "
+q_4,sum from k=1 to n of (a_k * b_k),Dot product in linear algebra
+q_5,integral from a to b of f(x) dx,Definite integral in calculus
+q_6,limit as x approaches a of (f(x) - f(a)) / (x - a),Derivative definition in limits
+q_7,d/dx (x^n) = n * x^(n-1),Power rule for differentiation
+q_8,e^x = sum from n=0 to infinity of x^n / n!,Exponential series expansion
+q_9,sum from n=1 to infinity of 1 / n^p,P-series in convergence tests
+q_10,integral from 0 to infinity of e^(-a*x) dx = 1/a,Laplace transform integral
+q_11,sqrt(a^2 + b^2),Distance or magnitude in vectors
+q_12,"det([a, b; c, d]) = a*d - b*c",2x2 matrix determinant
+q_13,A * x = lambda * x,Eigenvalue equation in linear algebra
+q_14,sum from i=1 to n of (x_i - x_bar)^2,Variance in statistics
+q_15,partial f / partial x + lambda * partial g / partial x = 0,Lagrange multiplier condition
+q_16,integral from -infinity to infinity of e^(-x^2) dx = sqrt(pi),Gaussian integral in probability
+q_17,limit as n approaches infinity of (1 + 1/n)^n = e,Limit definition of e
+q_18,a^2 + b^2 + 2*a*b*cos(theta),Law of cosines in geometry
+q_19,sum from k=0 to n of (n choose k) * a^k * b^(n-k),Binomial theorem in series
+q_20,d/dx (sin x) = cos x,Trigonometric derivative
+q_21,integral of 1/x dx = ln|x| + C,Logarithmic integral
+q_22,sum from n=1 to infinity of a_n,General series in convergence tests
+q_23,partial^2 f / partial x^2 + partial^2 f / partial y^2 = 0,Laplace equation in PDEs
+q_24,x^3 + a*x + b = 0,Cubic equation in algebra
+q_25,integral from a to b of x^n dx = (b^(n+1) - a^(n+1)) / (n+1),Power integral result
+q_26,limit as x approaches infinity of f(x) / g(x),Asymptotic analysis in limits
+q_27,sum from i=1 to n of x_i * y_i,Inner product in linear algebra
+q_28,sqrt(x^2 + y^2 + z^2),3D distance formula in geometry
+q_29,1 / (1 - x) = sum from n=0 to infinity of x^n,Geometric series expansion
+q_30,integral from 0 to 2*pi of cos^2(theta) d(theta) = pi,Trigonometric integral result
+q_31,div(F) = partial F_x / partial x + partial F_y / partial y + partial F_z / partial z,Divergence in vector calculus
+q_32,sum from k=1 to infinity of (-1)^k / k,Alternating series in convergence
+q_33,d/dx (e^(a*x)) = a * e^(a*x),Exponential derivative
+q_34,integral from -infinity to infinity of 1 / (1 + x^2) dx = pi,Arctangent integral in complex analysis
+q_35,a*x^2 + b*x + c = 0,Quadratic equation in algebra
+q_36,sum from i=1 to n of 1 / i^2,Basel problem in series
+q_37,partial f / partial t + v * grad f = 0,Transport equation in PDEs
+q_38,integral from 0 to 1 of x^n * (1 - x)^m dx,Beta function in probability
+q_39,limit as h approaches 0 of (f(x + h) - f(x)) / h,Derivative definition in calculus
+q_40,sum from n=0 to infinity of x^n / n!,Exponential series in calculus
+q_41,x^2 + y^2 + z^2 = r^2,Sphere equation in 3D geometry
+q_42,integral from a to b of 1 / (x^2 + a^2) dx,Arctangent integral with varying constants
+q_43,sum from k=1 to n of k^2 = n*(n+1)*(2n+1)/6,Sum of squares formula
+q_44,d/dx (ln x) = 1/x,Logarithmic derivative
+q_45,sum from i=1 to n of (x_i - mu)^2 / sigma^2,Standardized sum in statistics
+q_46,integral from 0 to pi of sin^2(theta) d(theta) = pi/2,Trigonometric integral result
+q_47,limit as n approaches infinity of sum from k=1 to n of (1/n) * f(k/n),Riemann sum in integral approximations
+q_48,partial u / partial t = k * partial^2 u / partial x^2,Heat equation in PDEs
+q_49,sum from k=0 to n of (-1)^k * (n choose k),Alternating binomial sum
+q_50,integral from -infinity to infinity of e^(-a*x^2 + b*x) dx,Gaussian integral with linear terms
